@@ -1,17 +1,17 @@
 # ROADMAP —— 路线图
 
+> 回答「**接下来往哪走**」。本文档管方向，不管当前时刻——每次会话具体做哪一块，以 `PROJECT_CONTEXT.md` 的「下一步」为准。
 > 阶段推进时更新状态与勾选项。状态标记：⬜ 未开始 / 🔄 进行中 / ✅ 完成 / ⏸ 暂停。
-> 每次会话做哪一块，以 PROJECT_CONTEXT.md 的"下一步"为准。
 
 ## Phase 0 · 项目奠基 ⬜
 
 **目标**：任何 Agent 只读文档即可接手。
 
-- [ ] 核心文档体系（README / AGENTS / PROJECT_CONTEXT / ROADMAP / DECISIONS / CHANGELOG）
+- [ ] 核心文档体系（AGENTS / PROJECT_CONTEXT / HANDOFF / USER_PROFILE / WORKFLOW / ROADMAP / DECISIONS / CHANGELOG）
 - [ ] 数据 / 内容层骨架与模板
 - [ ] 目录结构规范
 
-**验收**：新 Agent 只读文档，能回答"项目是什么 / 到哪一步了 / 有哪些注意点"。
+**验收**：新 Agent 只读文档，能回答"项目是什么 / 用户是谁 / 到哪一步了 / 有哪些注意点"。
 
 ## Phase 1 · 核心交付 ⬜
 
